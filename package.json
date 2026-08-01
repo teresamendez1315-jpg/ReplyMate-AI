@@ -1,0 +1,9 @@
+{
+  "name": "replymate-ai",
+  "version": "1.0.0",
+  "description": "ReplyMate AI - AI-powered reply generator with a secure Netlify Functions backend",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
